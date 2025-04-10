@@ -1,0 +1,175 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="10" name="allObjects">
+    <object class="IBCarbonPopupButton" id="4574">
+      <int name="controlID">214</int>
+      <object name="menu" class="IBCarbonMenu" id="4578">
+        <string name="title">Kibomló</string>
+        <array count="1" name="items">
+          <object class="IBCarbonMenuItem" id="4579">
+            <boolean name="checked">TRUE</boolean>
+            <boolean name="updateSingleItem">TRUE</boolean>
+          </object>
+        </array>
+      </object>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>Aver</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>1</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">469 100 200 20 </string>
+      <string name="bounds">100 469 120 669 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="4573">
+      <int name="controlID">211</int>
+      <string name="viewFrame">172 48 597 20 </string>
+      <string name="bounds">48 172 68 769 </string>
+    </object>
+    <object class="IBCarbonRadioButton" id="4577">
+      <int name="controlID">212</int>
+      <string name="title">Beállítás új iPod készülékként</string>
+      <string name="viewFrame">172 76 379 19 </string>
+      <string name="bounds">76 172 95 551 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="4576">
+      <int name="controlID">222</int>
+      <int name="fontStyle">4</int>
+      <string name="title">Utolsó biztonsági mentés:</string>
+      <int name="justification">-1</int>
+      <string name="viewFrame">162 142 187 20 </string>
+      <string name="bounds">142 162 162 349 </string>
+    </object>
+    <reference idRef="4578"/>
+    <reference idRef="4579"/>
+    <object class="IBCarbonHIView" id="4570">
+      <int name="controlID">200</int>
+      <string name="classID">ITImageView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="3">
+          <string>hook</string>
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="3">
+          <string>frcl</string>
+          <string>NOAX</string>
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="3">
+          <string>1</string>
+          <string>2</string>
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="3">
+          <string>b8b8b8</string>
+          <string>true</string>
+          <string>9300</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 780 230 </string>
+      <array count="7" name="subviews">
+        <object class="IBCarbonPicture" id="4571">
+          <int name="controlID">210</int>
+          <int name="contentResID">0</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">19 48 128 128 </string>
+          <string name="bounds">48 19 176 147 </string>
+        </object>
+        <reference idRef="4573"/>
+        <reference idRef="4577"/>
+        <object class="IBCarbonRadioButton" id="4575">
+          <int name="controlID">213</int>
+          <int name="initialState">1</int>
+          <string name="title">Visszaállítás ennek biztonsági mentéséből:</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>Aver</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>1</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">172 101 293 19 </string>
+          <string name="bounds">101 172 120 465 </string>
+        </object>
+        <reference idRef="4574"/>
+        <reference idRef="4576"/>
+        <object class="IBCarbonStaticText" id="4572">
+          <int name="controlID">223</int>
+          <string name="viewFrame">357 142 291 20 </string>
+          <string name="bounds">142 357 162 648 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 230 780 </string>
+    </object>
+    <reference idRef="4572"/>
+    <reference idRef="4571"/>
+    <reference idRef="4575"/>
+  </array>
+  <array count="10" name="allParents">
+    <reference idRef="4570"/>
+    <reference idRef="4570"/>
+    <reference idRef="4570"/>
+    <reference idRef="4570"/>
+    <reference idRef="4574"/>
+    <reference idRef="4578"/>
+    <reference idRef="1"/>
+    <reference idRef="4570"/>
+    <reference idRef="4570"/>
+    <reference idRef="4570"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="4570"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">4580</unsigned_int>
+</object>

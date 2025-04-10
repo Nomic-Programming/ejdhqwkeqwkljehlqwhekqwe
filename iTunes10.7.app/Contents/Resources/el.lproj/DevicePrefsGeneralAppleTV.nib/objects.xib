@@ -1,0 +1,567 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="32" name="allObjects">
+    <object class="IBCarbonUserPane" id="1203014">
+      <int name="controlID">2501</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">20 0 830 230 </string>
+      <array count="2" name="subviews">
+        <object class="IBCarbonPicture" id="1203016">
+          <int name="controlID">520</int>
+          <int name="contentResID">3030</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">24 26 40 19 </string>
+          <string name="bounds">26 44 45 84 </string>
+        </object>
+        <object class="IBCarbonHIView" id="1203015">
+          <int name="controlID">2031</int>
+          <string name="classID">ITImageView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>bcol</string>
+              <string>fsqr</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>1</string>
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>f7f7f7</string>
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">20 52 790 176 </string>
+          <array count="11" name="subviews">
+            <object class="IBCarbonPicture" id="1203025">
+              <int name="controlID">508</int>
+              <int name="contentResID">0</int>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>NOAX</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>2</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>true</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">93 24 128 128 </string>
+              <string name="bounds">76 133 204 261 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="1203022">
+              <int name="controlID">510</int>
+              <int name="fontStyle">4</int>
+              <string name="title">Όνομα:</string>
+              <int name="justification">-1</int>
+              <string name="viewFrame">470 35 72 16 </string>
+              <string name="bounds">87 510 103 582 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="1203024">
+              <int name="controlID">503</int>
+              <int name="justification">-2</int>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>MTLN</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>2</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>false</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">550 35 225 16 </string>
+              <string name="bounds">87 590 103 815 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="1203018">
+              <int name="controlID">511</int>
+              <int name="fontStyle">4</int>
+              <string name="title">Χωρητικότητα:</string>
+              <int name="justification">-1</int>
+              <string name="viewFrame">375 56 167 16 </string>
+              <string name="bounds">108 415 124 582 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="1203020">
+              <int name="controlID">504</int>
+              <int name="justification">-2</int>
+              <string name="viewFrame">550 56 225 16 </string>
+              <string name="bounds">108 590 124 815 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="1203019">
+              <int name="controlID">512</int>
+              <int name="fontStyle">4</int>
+              <string name="title">Έκδοση λογισμικού:</string>
+              <int name="justification">-1</int>
+              <string name="viewFrame">220 77 322 16 </string>
+              <string name="bounds">129 260 145 582 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="1203017">
+              <int name="controlID">505</int>
+              <int name="justification">-2</int>
+              <string name="viewFrame">550 77 225 16 </string>
+              <string name="bounds">129 590 145 815 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="1203027">
+              <int name="controlID">513</int>
+              <int name="fontStyle">4</int>
+              <string name="title">Σειριακός αριθμός:</string>
+              <int name="justification">-1</int>
+              <string name="viewFrame">220 98 322 16 </string>
+              <string name="bounds">150 260 166 582 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="1203026">
+              <int name="controlID">506</int>
+              <int name="justification">-2</int>
+              <string name="viewFrame">550 98 225 16 </string>
+              <string name="bounds">150 590 166 815 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="1203023">
+              <int name="controlID">514</int>
+              <int name="fontStyle">4</int>
+              <string name="title">Μορφή:</string>
+              <int name="justification">-1</int>
+              <string name="viewFrame">440 119 102 16 </string>
+              <string name="bounds">171 480 187 582 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="1203021">
+              <int name="controlID">507</int>
+              <int name="justification">-2</int>
+              <string name="viewFrame">550 119 225 16 </string>
+              <string name="bounds">171 590 187 815 </string>
+            </object>
+          </array>
+          <string name="bounds">52 40 228 830 </string>
+        </object>
+      </array>
+      <string name="bounds">0 20 230 850 </string>
+    </object>
+    <reference idRef="1203017"/>
+    <reference idRef="1203026"/>
+    <object class="IBCarbonRadioButton" id="1203036">
+      <int name="controlID">7056</int>
+      <int name="initialState">1</int>
+      <string name="title">Προσαρμοσμένος συγχρονισμός</string>
+      <string name="viewFrame">145 77 275 19 </string>
+      <string name="bounds">359 185 378 460 </string>
+    </object>
+    <object class="IBCarbonUserPane" id="1203005">
+      <int name="controlID">100</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 0 871 696 </string>
+      <array count="3" name="subviews">
+        <object class="IBCarbonHIView" id="1203007">
+          <int name="controlID">2500</int>
+          <string name="classID">ITImageView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>cenV</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>2501</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">0 0 870 230 </string>
+          <array count="1" name="subviews">
+            <reference idRef="1203014"/>
+          </array>
+          <string name="bounds">0 0 230 870 </string>
+        </object>
+        <object class="IBCarbonHIView" id="1203006">
+          <int name="controlID">2504</int>
+          <string name="classID">ITImageView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>cenV</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>2505</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">0 230 870 283 </string>
+          <array count="1" name="subviews">
+            <object class="IBCarbonUserPane" id="1203028">
+              <int name="controlID">2505</int>
+              <int name="featureBits">2</int>
+              <string name="viewFrame">20 0 830 278 </string>
+              <array count="2" name="subviews">
+                <object class="IBCarbonStaticText" id="1203030">
+                  <int name="controlID">7053</int>
+                  <string name="title">Συγχρονισμός</string>
+                  <dictionary count="4" name="auxiliaryDictionary">
+                    <string>creators</string>
+                    <array count="1">
+                      <string>hook</string>
+                    </array>
+                    <string>tags</string>
+                    <array count="1">
+                      <string>TXTS</string>
+                    </array>
+                    <string>types</string>
+                    <array count="1">
+                      <string>6</string>
+                    </array>
+                    <string>values</string>
+                    <array count="1">
+                      <string>3001</string>
+                    </array>
+                  </dictionary>
+                  <string name="viewFrame">20 22 225 23 </string>
+                  <string name="bounds">252 40 275 265 </string>
+                </object>
+                <object class="IBCarbonHIView" id="1203029">
+                  <string name="classID">ITImageView</string>
+                  <dictionary count="4" name="auxiliaryDictionary">
+                    <string>creators</string>
+                    <array count="2">
+                      <string>hook</string>
+                      <string>hook</string>
+                    </array>
+                    <string>tags</string>
+                    <array count="2">
+                      <string>bcol</string>
+                      <string>fsqr</string>
+                    </array>
+                    <string>types</string>
+                    <array count="2">
+                      <string>1</string>
+                      <string>2</string>
+                    </array>
+                    <string>values</string>
+                    <array count="2">
+                      <string>f7f7f7</string>
+                      <string>true</string>
+                    </array>
+                  </dictionary>
+                  <string name="viewFrame">20 52 790 216 </string>
+                  <array count="6" name="subviews">
+                    <object class="IBCarbonRadioButton" id="1203033">
+                      <int name="controlID">7054</int>
+                      <boolean name="enabled">FALSE</boolean>
+                      <string name="title">Αυτόματος συγχρονισμός</string>
+                      <string name="viewFrame">145 12 275 19 </string>
+                      <string name="bounds">294 185 313 460 </string>
+                    </object>
+                    <object class="IBCarbonStaticText" id="1203032">
+                      <int name="controlID">7055</int>
+                      <int name="fontStyle">-2</int>
+                      <string name="title">Το iTunes επιλέγει αυτόματα τον ήχο και βίντεο για συγχρονισμό, ενώ δίνει προτεραιότητα σε νεότερα στοιχεία. Τα στοιχεία που δεν συγχρονίζονται είναι διαθέσιμα στο Apple TV σας όταν το iTunes είναι ανοικτό.</string>
+                      <dictionary count="4" name="auxiliaryDictionary">
+                        <string>creators</string>
+                        <array count="1">
+                          <string>hook</string>
+                        </array>
+                        <string>tags</string>
+                        <array count="1">
+                          <string>mTXT</string>
+                        </array>
+                        <string>types</string>
+                        <array count="1">
+                          <string>2</string>
+                        </array>
+                        <string>values</string>
+                        <array count="1">
+                          <string>true</string>
+                        </array>
+                      </dictionary>
+                      <string name="viewFrame">161 32 490 41 </string>
+                      <string name="bounds">314 201 355 691 </string>
+                    </object>
+                    <reference idRef="1203036"/>
+                    <object class="IBCarbonStaticText" id="1203035">
+                      <int name="controlID">7050</int>
+                      <int name="fontStyle">-2</int>
+                      <string name="title">Εσείς επιλέγετε τον ήχο και τα βίντεο προς συγχρονισμό. Εφόσον υπάρχει χώρος, προστίθενται στοιχεία με την εξής σειρά: ταινίες, τηλεοπτικές εκπομπές, μουσική, podcast. Τα στοιχεία που δεν θα συγχρονιστούν θα είναι διαθέσιμα στο Apple TV σας όταν το iTunes είναι ανοικτό.</string>
+                      <dictionary count="4" name="auxiliaryDictionary">
+                        <string>creators</string>
+                        <array count="1">
+                          <string>hook</string>
+                        </array>
+                        <string>tags</string>
+                        <array count="1">
+                          <string>mTXT</string>
+                        </array>
+                        <string>types</string>
+                        <array count="1">
+                          <string>2</string>
+                        </array>
+                        <string>values</string>
+                        <array count="1">
+                          <string>true</string>
+                        </array>
+                      </dictionary>
+                      <string name="viewFrame">162 97 489 52 </string>
+                      <string name="bounds">379 202 431 691 </string>
+                    </object>
+                    <object class="IBCarbonCheckBox" id="1203031">
+                      <int name="controlID">7058</int>
+                      <boolean name="enabled">FALSE</boolean>
+                      <int name="fontStyle">105</int>
+                      <string name="title">Να εμφανίζονται μόνο συγχρονισμένα στοιχεία στο Apple TV μου</string>
+                      <string name="viewFrame">163 152 488 18 </string>
+                      <string name="bounds">434 203 452 691 </string>
+                    </object>
+                    <object class="IBCarbonStaticText" id="1203034">
+                      <int name="controlID">7059</int>
+                      <string name="title">Επιλέξτε φωτογραφίες για συγχρονισμό στην καρτέλα «Φωτογραφίες».</string>
+                      <string name="viewFrame">146 176 540 36 </string>
+                      <string name="bounds">458 186 494 726 </string>
+                    </object>
+                  </array>
+                  <string name="bounds">282 40 498 830 </string>
+                </object>
+              </array>
+              <string name="bounds">230 20 508 850 </string>
+            </object>
+          </array>
+          <string name="bounds">230 0 513 870 </string>
+        </object>
+        <object class="IBCarbonHIView" id="1203008">
+          <int name="controlID">2502</int>
+          <string name="classID">ITImageView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>cenV</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>2503</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">0 513 870 180 </string>
+          <array count="1" name="subviews">
+            <object class="IBCarbonUserPane" id="1203009">
+              <int name="controlID">2503</int>
+              <int name="featureBits">2</int>
+              <string name="viewFrame">20 0 830 184 </string>
+              <array count="2" name="subviews">
+                <object class="IBCarbonStaticText" id="1203011">
+                  <int name="controlID">7052</int>
+                  <string name="title">Πολυμέσα</string>
+                  <dictionary count="4" name="auxiliaryDictionary">
+                    <string>creators</string>
+                    <array count="1">
+                      <string>hook</string>
+                    </array>
+                    <string>tags</string>
+                    <array count="1">
+                      <string>TXTS</string>
+                    </array>
+                    <string>types</string>
+                    <array count="1">
+                      <string>6</string>
+                    </array>
+                    <string>values</string>
+                    <array count="1">
+                      <string>3001</string>
+                    </array>
+                  </dictionary>
+                  <string name="viewFrame">20 22 224 23 </string>
+                  <string name="bounds">535 40 558 264 </string>
+                </object>
+                <object class="IBCarbonHIView" id="1203010">
+                  <string name="classID">ITImageView</string>
+                  <string name="viewFrame">20 52 790 113 </string>
+                  <array count="2" name="subviews">
+                    <object class="IBCarbonStaticText" id="1203013">
+                      <int name="controlID">7050</int>
+                      <string name="title">Το iTunes θα συγχρονίσει το περιεχόμενο της βιβλιοθήκης σας με το Apple TV σας με την εξής σειρά: ταινίες, τηλεοπτικές εκπομπές, μουσική, podcast και μετά φωτογραφίες. Ανάλογα με το διαθέσιμο χώρο στο Apple TV σας, μερικά πολυμέσα μπορεί να μην αντιγραφούν στο Apple TV. </string>
+                      <dictionary count="4" name="auxiliaryDictionary">
+                        <string>creators</string>
+                        <array count="1">
+                          <string>hook</string>
+                        </array>
+                        <string>tags</string>
+                        <array count="1">
+                          <string>mTXT</string>
+                        </array>
+                        <string>types</string>
+                        <array count="1">
+                          <string>2</string>
+                        </array>
+                        <string>values</string>
+                        <array count="1">
+                          <string>true</string>
+                        </array>
+                      </dictionary>
+                      <string name="viewFrame">146 20 498 73 </string>
+                      <string name="bounds">585 186 658 684 </string>
+                    </object>
+                    <object class="IBCarbonStaticText" id="1203012">
+                      <int name="controlID">7051</int>
+                      <boolean name="hidden">TRUE</boolean>
+                      <string name="title">Το iTunes θα συγχρονίσει το περιεχόμενο της βιβλιοθήκης σας με το Apple TV σας με την εξής σειρά: φωτογραφίες, ταινίες, τηλεοπτικές εκπομπές, μουσική και μετά podcast. Ανάλογα με το διαθέσιμο χώρο στο Apple TV σας, μερικά πολυμέσα μπορεί να μην αντιγραφούν στο Apple TV.</string>
+                      <dictionary count="4" name="auxiliaryDictionary">
+                        <string>creators</string>
+                        <array count="1">
+                          <string>hook</string>
+                        </array>
+                        <string>tags</string>
+                        <array count="1">
+                          <string>mTXT</string>
+                        </array>
+                        <string>types</string>
+                        <array count="1">
+                          <string>2</string>
+                        </array>
+                        <string>values</string>
+                        <array count="1">
+                          <string>true</string>
+                        </array>
+                      </dictionary>
+                      <string name="viewFrame">146 20 498 73 </string>
+                      <string name="bounds">585 186 658 684 </string>
+                    </object>
+                  </array>
+                  <string name="bounds">565 40 678 830 </string>
+                </object>
+              </array>
+              <string name="bounds">513 20 697 850 </string>
+            </object>
+          </array>
+          <string name="bounds">513 0 693 870 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 696 871 </string>
+    </object>
+    <reference idRef="1203006"/>
+    <reference idRef="1203011"/>
+    <reference idRef="1203009"/>
+    <reference idRef="1203018"/>
+    <reference idRef="1203024"/>
+    <reference idRef="1203027"/>
+    <reference idRef="1203028"/>
+    <reference idRef="1203016"/>
+    <reference idRef="1203030"/>
+    <reference idRef="1203022"/>
+    <reference idRef="1203033"/>
+    <reference idRef="1203029"/>
+    <reference idRef="1203031"/>
+    <reference idRef="1203008"/>
+    <reference idRef="1203021"/>
+    <reference idRef="1203034"/>
+    <reference idRef="1203032"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203019"/>
+    <reference idRef="1203035"/>
+    <reference idRef="1203013"/>
+    <reference idRef="1203020"/>
+    <reference idRef="1203025"/>
+    <reference idRef="1203012"/>
+    <reference idRef="1203007"/>
+    <reference idRef="1203010"/>
+    <reference idRef="1203023"/>
+  </array>
+  <array count="32" name="allParents">
+    <reference idRef="1203007"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203029"/>
+    <reference idRef="1"/>
+    <reference idRef="1203005"/>
+    <reference idRef="1203009"/>
+    <reference idRef="1203008"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203006"/>
+    <reference idRef="1203014"/>
+    <reference idRef="1203028"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203029"/>
+    <reference idRef="1203028"/>
+    <reference idRef="1203029"/>
+    <reference idRef="1203005"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203029"/>
+    <reference idRef="1203029"/>
+    <reference idRef="1203014"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203029"/>
+    <reference idRef="1203010"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203010"/>
+    <reference idRef="1203005"/>
+    <reference idRef="1203009"/>
+    <reference idRef="1203015"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="1203005"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">1203037</unsigned_int>
+</object>

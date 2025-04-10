@@ -1,0 +1,307 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="15" name="allObjects">
+    <object class="IBCarbonStaticText" id="5406">
+      <int name="controlID">151</int>
+      <boolean name="hidden">TRUE</boolean>
+      <int name="fontStyle">-2</int>
+      <string name="title">A levegőn át történő szinkronizálás beállításait az iPhone készüléken is elvégezheti.</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>mTXT</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">229 114 458 18 </string>
+      <string name="bounds">114 229 132 687 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="5398">
+      <int name="controlID">138</int>
+      <int name="fontStyle">-2</int>
+      <string name="title">A médiának az iPhone készülékére történő szinkronizációjához módosítsa a következő képernyő füleinek beállításait.</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>mTXT</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">247 148 458 29 </string>
+      <string name="bounds">148 247 177 705 </string>
+    </object>
+    <object class="IBCarbonHIView" id="5396">
+      <int name="controlID">100</int>
+      <string name="classID">ITImageView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="3">
+          <string>hook</string>
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="3">
+          <string>frcl</string>
+          <string>NOAX</string>
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="3">
+          <string>1</string>
+          <string>2</string>
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="3">
+          <string>b8b8b8</string>
+          <string>true</string>
+          <string>9300</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 780 230 </string>
+      <array count="14" name="subviews">
+        <object class="IBCarbonPicture" id="5399">
+          <int name="controlID">110</int>
+          <int name="contentResID">0</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">78 48 128 128 </string>
+          <string name="bounds">48 78 176 206 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5407">
+          <int name="controlID">120</int>
+          <string name="title">Név:</string>
+          <string name="viewFrame">228 42 31 20 </string>
+          <string name="bounds">42 228 62 259 </string>
+        </object>
+        <object class="IBCarbonEditText" id="5402">
+          <int name="controlID">121</int>
+          <boolean name="isUnicode">TRUE</boolean>
+          <boolean name="isSingleLine">TRUE</boolean>
+          <string name="title">iPhone</string>
+          <string name="viewFrame">264 43 239 16 </string>
+          <string name="bounds">43 264 59 503 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="5401">
+          <int name="controlID">124</int>
+          <int name="initialState">1</int>
+          <string name="title">Kontaktok, naptárak, könyvjelzők és email fiókok automatikus szinkronizálása</string>
+          <string name="viewFrame">229 66 531 34 </string>
+          <string name="bounds">66 229 100 760 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="5410">
+          <int name="controlID">116</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="initialState">1</int>
+          <string name="title">Kontaktok, naptárak és könyvjelzők automatikus szinkronizálása</string>
+          <string name="viewFrame">229 67 481 34 </string>
+          <string name="bounds">67 229 101 710 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="5397">
+          <int name="controlID">114</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="initialState">1</int>
+          <string name="title">Kontaktok, naptárak, könyvjelzők, jegyzetek és email fiókok automatikus szinkronizálása</string>
+          <string name="viewFrame">229 66 531 34 </string>
+          <string name="bounds">66 229 100 760 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5403">
+          <int name="controlID">150</int>
+          <boolean name="hidden">TRUE</boolean>
+          <string name="viewFrame">229 78 490 34 </string>
+          <string name="bounds">78 229 112 719 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5408">
+          <int name="controlID">115</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="fontStyle">-2</int>
+          <string name="title">Az iTunes képes automatikusan szinkronizálni iPhone készülékét a Címtár kontaktjaival, az iCal naptáraival és a Safari könyvjelzőivel, jegyzeteivel és Mail fiókjaival annak e Mac gépre történő minden egyes csatlakoztatásakor.</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>mTXT</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">247 104 486 39 </string>
+          <string name="bounds">104 247 143 733 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5400">
+          <int name="controlID">117</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="fontStyle">-2</int>
+          <string name="title">Az iTunes képes automatikusan szinkronizálni iPhone készülékét a Címtár kontaktjaival, az iCal naptáraival és a Safari könyvjelzőivel annak e Mac gépre történő minden egyes csatlakoztatásakor.</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>mTXT</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">247 104 486 39 </string>
+          <string name="bounds">104 247 143 733 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5409">
+          <int name="controlID">125</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">Az iTunes képes automatikusan szinkronizálni iPhone készülékét a kontaktokkal, a naptárakkal, a Safari könyvjelzőivel és a Mail-fiókokkal annak erre a Mac gépre történő minden egyes csatlakoztatásakor.</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>mTXT</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">247 104 486 39 </string>
+          <string name="bounds">104 247 143 733 </string>
+        </object>
+        <reference idRef="5406"/>
+        <reference idRef="5398"/>
+        <object class="IBCarbonStaticText" id="5405">
+          <int name="controlID">152</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="fontStyle">-2</int>
+          <string name="title">A médiának az iPhone készülékére történő szinkronizációjához módosítsa a következő képernyő füleinek beállításait.</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>mTXT</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">229 150 490 26 </string>
+          <string name="bounds">150 229 176 719 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="5404">
+          <int name="controlID">118</int>
+          <string name="title">Alkalmazások automatikus szinkronizálása</string>
+          <string name="viewFrame">229 181 481 18 </string>
+          <string name="bounds">181 229 199 710 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 230 780 </string>
+    </object>
+    <reference idRef="5403"/>
+    <reference idRef="5401"/>
+    <reference idRef="5408"/>
+    <reference idRef="5397"/>
+    <reference idRef="5399"/>
+    <reference idRef="5404"/>
+    <reference idRef="5405"/>
+    <reference idRef="5402"/>
+    <reference idRef="5400"/>
+    <reference idRef="5407"/>
+    <reference idRef="5409"/>
+    <reference idRef="5410"/>
+  </array>
+  <array count="15" name="allParents">
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="1"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="5396"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">5411</unsigned_int>
+</object>

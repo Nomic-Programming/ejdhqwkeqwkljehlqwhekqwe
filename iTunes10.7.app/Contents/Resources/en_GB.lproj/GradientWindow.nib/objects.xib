@@ -1,0 +1,1165 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="39" name="allObjects">
+    <object class="IBCarbonHIView" id="349">
+      <int name="controlID">1001</int>
+      <string name="classID">ITWindowTitleTextView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>740</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">69 3 300 18 </string>
+      <string name="bounds">3 69 21 369 </string>
+    </object>
+    <object class="IBCarbonHIView" id="322">
+      <int name="controlID">103</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+      </object>
+      <string name="classID">ITWindowTitleBarView</string>
+      <string name="viewFrame">0 0 23 62 </string>
+      <array count="3" name="subviews">
+        <object class="IBCarbonHIView" id="325">
+          <int name="controlID">1050</int>
+          <ostype name="command">clos</ostype>
+          <string name="classID">ITWindowFrameButtonView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13017</string>
+              <string>5</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">8 7 12 13 </string>
+          <string name="bounds">7 8 20 20 </string>
+        </object>
+        <object class="IBCarbonHIView" id="323">
+          <int name="controlID">1051</int>
+          <ostype name="command">mini</ostype>
+          <string name="classID">ITWindowFrameButtonView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13018</string>
+              <string>6</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">8 25 12 13 </string>
+          <string name="bounds">25 8 38 20 </string>
+        </object>
+        <object class="IBCarbonHIView" id="324">
+          <int name="controlID">1052</int>
+          <ostype name="command">zoom</ostype>
+          <string name="classID">ITWindowFrameButtonView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13019</string>
+              <string>7</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">8 43 12 13 </string>
+          <string name="bounds">43 8 56 20 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 62 23 </string>
+    </object>
+    <object class="IBCarbonHIView" id="360">
+      <int name="controlID">1050</int>
+      <ostype name="command">clos</ostype>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingBottomKind">2</int>
+      </object>
+      <string name="classID">ITWindowFrameButtonView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>WFBt</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>13094</string>
+          <string>5</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">5 2 13 13 </string>
+      <string name="bounds">2 5 15 18 </string>
+    </object>
+    <object class="IBCarbonHIView" id="369">
+      <int name="controlID">1051</int>
+      <ostype name="command">mini</ostype>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingBottomKind">2</int>
+      </object>
+      <string name="classID">ITWindowFrameButtonView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>WFBt</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>13085</string>
+          <string>2</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">27 5 14 14 </string>
+      <string name="bounds">5 27 19 41 </string>
+    </object>
+    <object class="IBCarbonHIView" id="347">
+      <int name="controlID">125</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingRightKind">2</int>
+      </object>
+      <string name="classID">ITWindowTitleBarView</string>
+      <string name="viewFrame">0 0 440 24 </string>
+      <array count="4" name="subviews">
+        <reference idRef="349"/>
+        <object class="IBCarbonHIView" id="351">
+          <int name="controlID">1050</int>
+          <ostype name="command">clos</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingLeftKind">1</int>
+            <int name="bindingBottomKind">2</int>
+          </object>
+          <string name="classID">ITWindowFrameButtonView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13087</string>
+              <string>1</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">7 5 14 14 </string>
+          <string name="bounds">5 7 19 21 </string>
+        </object>
+        <object class="IBCarbonHIView" id="348">
+          <int name="controlID">1051</int>
+          <ostype name="command">mini</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingLeftKind">1</int>
+            <int name="bindingBottomKind">2</int>
+          </object>
+          <string name="classID">ITWindowFrameButtonView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13088</string>
+              <string>2</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">27 5 14 14 </string>
+          <string name="bounds">5 27 19 41 </string>
+        </object>
+        <object class="IBCarbonHIView" id="350">
+          <int name="controlID">1052</int>
+          <ostype name="command">zoom</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingLeftKind">1</int>
+            <int name="bindingBottomKind">2</int>
+          </object>
+          <string name="classID">ITWindowFrameButtonView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13089</string>
+              <string>3</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">47 5 14 14 </string>
+          <string name="bounds">5 47 19 61 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 24 440 </string>
+    </object>
+    <object class="IBCarbonHIView" id="362">
+      <int name="controlID">1052</int>
+      <ostype name="command">zoom</ostype>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingBottomKind">2</int>
+      </object>
+      <string name="classID">ITWindowFrameButtonView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>WFBt</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>13096</string>
+          <string>7</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">41 2 13 13 </string>
+      <string name="bounds">2 41 15 54 </string>
+    </object>
+    <reference idRef="325"/>
+    <object class="IBCarbonHIView" id="337">
+      <int name="controlID">105</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingRightKind">2</int>
+      </object>
+      <string name="classID">ITWindowTitleBarView</string>
+      <string name="viewFrame">0 0 440 24 </string>
+      <array count="4" name="subviews">
+        <object class="IBCarbonHIView" id="340">
+          <int name="controlID">1001</int>
+          <string name="classID">ITWindowTitleTextView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>740</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">69 3 300 18 </string>
+          <string name="bounds">3 69 21 369 </string>
+        </object>
+        <object class="IBCarbonHIView" id="338">
+          <int name="controlID">1050</int>
+          <ostype name="command">clos</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingLeftKind">1</int>
+            <int name="bindingBottomKind">2</int>
+          </object>
+          <string name="classID">ITWindowFrameButtonView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13007</string>
+              <string>1</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">8 4 14 16 </string>
+          <string name="bounds">4 8 20 22 </string>
+        </object>
+        <object class="IBCarbonHIView" id="341">
+          <int name="controlID">1051</int>
+          <ostype name="command">mini</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingLeftKind">1</int>
+            <int name="bindingBottomKind">2</int>
+          </object>
+          <string name="classID">ITWindowFrameButtonView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13008</string>
+              <string>2</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">29 4 14 16 </string>
+          <string name="bounds">4 29 20 43 </string>
+        </object>
+        <object class="IBCarbonHIView" id="339">
+          <int name="controlID">1052</int>
+          <ostype name="command">zoom</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingLeftKind">1</int>
+            <int name="bindingBottomKind">2</int>
+          </object>
+          <string name="classID">ITWindowFrameButtonView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13009</string>
+              <string>3</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">50 4 14 16 </string>
+          <string name="bounds">4 50 20 64 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 24 440 </string>
+    </object>
+    <object class="IBCarbonHIView" id="345">
+      <int name="controlID">123</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+      </object>
+      <string name="classID">ITWindowTitleBarView</string>
+      <string name="viewFrame">0 0 23 62 </string>
+      <array count="3" name="subviews">
+        <object class="IBCarbonHIView" id="356">
+          <int name="controlID">1050</int>
+          <ostype name="command">clos</ostype>
+          <string name="classID">ITWindowFrameButtonView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13084</string>
+              <string>5</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">7 7 14 14 </string>
+          <string name="bounds">7 7 21 21 </string>
+        </object>
+        <object class="IBCarbonHIView" id="358">
+          <int name="controlID">1051</int>
+          <ostype name="command">mini</ostype>
+          <string name="classID">ITWindowFrameButtonView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13085</string>
+              <string>6</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">7 25 14 14 </string>
+          <string name="bounds">25 7 39 21 </string>
+        </object>
+        <object class="IBCarbonHIView" id="357">
+          <int name="controlID">1052</int>
+          <ostype name="command">zoom</ostype>
+          <string name="classID">ITWindowFrameButtonView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13086</string>
+              <string>7</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">7 43 14 14 </string>
+          <string name="bounds">43 7 57 21 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 62 23 </string>
+    </object>
+    <object class="IBCarbonHIView" id="367">
+      <int name="controlID">1052</int>
+      <ostype name="command">zoom</ostype>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingBottomKind">2</int>
+      </object>
+      <string name="classID">ITWindowFrameButtonView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>WFBt</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>13086</string>
+          <string>3</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">47 5 14 14 </string>
+      <string name="bounds">5 47 19 61 </string>
+    </object>
+    <reference idRef="338"/>
+    <object class="IBCarbonHIView" id="344">
+      <int name="controlID">122</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingRightKind">2</int>
+      </object>
+      <string name="classID">ITWindowTitleBarView</string>
+      <string name="viewFrame">0 0 440 16 </string>
+      <array count="4" name="subviews">
+        <object class="IBCarbonHIView" id="359">
+          <int name="controlID">1001</int>
+          <string name="classID">ITWindowTitleTextView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>731</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">69 0 300 15 </string>
+          <string name="bounds">0 69 15 369 </string>
+        </object>
+        <reference idRef="360"/>
+        <object class="IBCarbonHIView" id="361">
+          <int name="controlID">1051</int>
+          <ostype name="command">mini</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingLeftKind">1</int>
+            <int name="bindingBottomKind">2</int>
+          </object>
+          <string name="classID">ITWindowFrameButtonView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13095</string>
+              <string>6</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">23 2 13 13 </string>
+          <string name="bounds">2 23 15 36 </string>
+        </object>
+        <reference idRef="362"/>
+      </array>
+      <string name="bounds">0 0 16 440 </string>
+    </object>
+    <object class="IBCarbonHIView" id="370">
+      <int name="controlID">1054</int>
+      <ostype name="command">clos</ostype>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingRightKind">2</int>
+      </object>
+      <string name="classID">ITWindowFrameButtonView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>WFBt</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>13097</string>
+          <string>9</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">421 3 16 16 </string>
+      <string name="bounds">3 421 19 437 </string>
+    </object>
+    <object class="IBCarbonHIView" id="284">
+      <int name="controlID">100</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingRightKind">2</int>
+      </object>
+      <string name="classID">ITWindowTitleBarView</string>
+      <string name="viewFrame">0 0 440 22 </string>
+      <array count="4" name="subviews">
+        <object class="IBCarbonHIView" id="286">
+          <int name="controlID">1001</int>
+          <string name="classID">ITWindowTitleTextView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>730</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">69 3 300 18 </string>
+          <string name="bounds">3 69 21 369 </string>
+        </object>
+        <object class="IBCarbonHIView" id="288">
+          <int name="controlID">1050</int>
+          <ostype name="command">clos</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingLeftKind">1</int>
+            <int name="bindingBottomKind">2</int>
+          </object>
+          <string name="classID">ITWindowFrameButtonView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13004</string>
+              <string>1</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">8 4 14 16 </string>
+          <string name="bounds">4 8 20 22 </string>
+        </object>
+        <object class="IBCarbonHIView" id="285">
+          <int name="controlID">1051</int>
+          <ostype name="command">mini</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingLeftKind">1</int>
+            <int name="bindingBottomKind">2</int>
+          </object>
+          <string name="classID">ITWindowFrameButtonView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13005</string>
+              <string>2</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">29 4 14 16 </string>
+          <string name="bounds">4 29 20 43 </string>
+        </object>
+        <object class="IBCarbonHIView" id="287">
+          <int name="controlID">1052</int>
+          <ostype name="command">zoom</ostype>
+          <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+            <int name="bindingTopKind">1</int>
+            <int name="bindingLeftKind">1</int>
+            <int name="bindingBottomKind">2</int>
+          </object>
+          <string name="classID">ITWindowFrameButtonView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="2">
+              <string>hook</string>
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="2">
+              <string>PBUT</string>
+              <string>WFBt</string>
+            </array>
+            <string>types</string>
+            <array count="2">
+              <string>6</string>
+              <string>7</string>
+            </array>
+            <string>values</string>
+            <array count="2">
+              <string>13006</string>
+              <string>3</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">50 4 14 16 </string>
+          <string name="bounds">4 50 20 64 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 22 440 </string>
+    </object>
+    <reference idRef="288"/>
+    <object class="IBCarbonHIView" id="291">
+      <int name="controlID">1051</int>
+      <ostype name="command">mini</ostype>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingBottomKind">2</int>
+      </object>
+      <string name="classID">ITWindowFrameButtonView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>WFBt</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>13015</string>
+          <string>6</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">23 1 13 14 </string>
+      <string name="bounds">1 23 15 36 </string>
+    </object>
+    <reference idRef="323"/>
+    <reference idRef="357"/>
+    <reference idRef="351"/>
+    <reference idRef="286"/>
+    <reference idRef="287"/>
+    <reference idRef="340"/>
+    <object class="IBCarbonHIView" id="366">
+      <int name="controlID">1050</int>
+      <ostype name="command">clos</ostype>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingBottomKind">2</int>
+      </object>
+      <string name="classID">ITWindowFrameButtonView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>WFBt</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>13084</string>
+          <string>1</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">7 5 14 14 </string>
+      <string name="bounds">5 7 19 21 </string>
+    </object>
+    <reference idRef="341"/>
+    <object class="IBCarbonHIView" id="293">
+      <int name="controlID">1001</int>
+      <string name="classID">ITWindowTitleTextView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>731</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">69 0 300 15 </string>
+      <string name="bounds">0 69 15 369 </string>
+    </object>
+    <reference idRef="348"/>
+    <reference idRef="359"/>
+    <reference idRef="350"/>
+    <reference idRef="361"/>
+    <reference idRef="285"/>
+    <object class="IBCarbonHIView" id="368">
+      <int name="controlID">1001</int>
+      <string name="classID">ITWindowTitleTextView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>TXTS</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>730</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">69 3 300 18 </string>
+      <string name="bounds">3 69 21 369 </string>
+    </object>
+    <reference idRef="339"/>
+    <reference idRef="356"/>
+    <object class="IBCarbonHIView" id="290">
+      <int name="controlID">1052</int>
+      <ostype name="command">zoom</ostype>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingBottomKind">2</int>
+      </object>
+      <string name="classID">ITWindowFrameButtonView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>WFBt</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>13016</string>
+          <string>7</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">41 1 13 14 </string>
+      <string name="bounds">1 41 15 54 </string>
+    </object>
+    <reference idRef="324"/>
+    <reference idRef="358"/>
+    <object class="IBCarbonHIView" id="342">
+      <int name="controlID">120</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingRightKind">2</int>
+      </object>
+      <string name="classID">ITWindowTitleBarView</string>
+      <string name="viewFrame">0 0 440 22 </string>
+      <array count="5" name="subviews">
+        <reference idRef="368"/>
+        <reference idRef="366"/>
+        <reference idRef="370"/>
+        <reference idRef="369"/>
+        <reference idRef="367"/>
+      </array>
+      <string name="bounds">0 0 22 440 </string>
+    </object>
+    <object class="IBCarbonHIView" id="292">
+      <int name="controlID">1050</int>
+      <ostype name="command">clos</ostype>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingBottomKind">2</int>
+      </object>
+      <string name="classID">ITWindowFrameButtonView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>PBUT</string>
+          <string>WFBt</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>6</string>
+          <string>7</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>13014</string>
+          <string>5</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">5 1 13 14 </string>
+      <string name="bounds">1 5 15 18 </string>
+    </object>
+    <object class="IBCarbonHIView" id="289">
+      <int name="controlID">102</int>
+      <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+        <int name="bindingTopKind">1</int>
+        <int name="bindingLeftKind">1</int>
+        <int name="bindingRightKind">2</int>
+      </object>
+      <string name="classID">ITWindowTitleBarView</string>
+      <string name="viewFrame">0 0 440 16 </string>
+      <array count="4" name="subviews">
+        <reference idRef="293"/>
+        <reference idRef="292"/>
+        <reference idRef="291"/>
+        <reference idRef="290"/>
+      </array>
+      <string name="bounds">0 0 16 440 </string>
+    </object>
+  </array>
+  <array count="39" name="allParents">
+    <reference idRef="347"/>
+    <reference idRef="1"/>
+    <reference idRef="344"/>
+    <reference idRef="342"/>
+    <reference idRef="1"/>
+    <reference idRef="344"/>
+    <reference idRef="322"/>
+    <reference idRef="1"/>
+    <reference idRef="1"/>
+    <reference idRef="342"/>
+    <reference idRef="337"/>
+    <reference idRef="1"/>
+    <reference idRef="342"/>
+    <reference idRef="1"/>
+    <reference idRef="284"/>
+    <reference idRef="289"/>
+    <reference idRef="322"/>
+    <reference idRef="345"/>
+    <reference idRef="347"/>
+    <reference idRef="284"/>
+    <reference idRef="284"/>
+    <reference idRef="337"/>
+    <reference idRef="342"/>
+    <reference idRef="337"/>
+    <reference idRef="289"/>
+    <reference idRef="347"/>
+    <reference idRef="344"/>
+    <reference idRef="347"/>
+    <reference idRef="344"/>
+    <reference idRef="284"/>
+    <reference idRef="342"/>
+    <reference idRef="337"/>
+    <reference idRef="345"/>
+    <reference idRef="289"/>
+    <reference idRef="322"/>
+    <reference idRef="345"/>
+    <reference idRef="1"/>
+    <reference idRef="289"/>
+    <reference idRef="1"/>
+  </array>
+  <dictionary count="9" name="nameTable">
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+    <string>Leopard Miniplayer</string>
+    <reference idRef="322"/>
+    <string>Leopard QuickTime Look Titlebar</string>
+    <reference idRef="337"/>
+    <string>Leopard TitleBar</string>
+    <reference idRef="284"/>
+    <string>Leopard UtilityWindowTitleBar</string>
+    <reference idRef="289"/>
+    <string>Lion Miniplayer</string>
+    <reference idRef="345"/>
+    <string>Lion QuickTime Look Titlebar</string>
+    <reference idRef="347"/>
+    <string>Lion TitleBar</string>
+    <reference idRef="342"/>
+    <string>Lion UtilityWindowTitleBar</string>
+    <reference idRef="344"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">372</unsigned_int>
+</object>

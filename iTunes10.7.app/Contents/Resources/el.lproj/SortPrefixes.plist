@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SortPrefixes</key>
+	<array>
+		<string>ο</string>
+		<string>του</string>
+		<string>τον</string>
+		<string>η</string>
+		<string>της</string>
+		<string>την</string>
+		<string>τη</string>
+		<string>το</string>
+		<string>οι</string>
+		<string>των</string>
+		<string>τους</string>
+		<string>τις</string>
+		<string>τα</string>
+		<string>ένας</string>
+		<string>ένα</string>
+		<string>μια</string>
+		<string>έναν</string>
+		<string>ενός</string>
+		<string>μιας</string>
+	</array>
+</dict>
+</plist>

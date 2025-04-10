@@ -1,0 +1,307 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="15" name="allObjects">
+    <object class="IBCarbonStaticText" id="5400">
+      <int name="controlID">117</int>
+      <boolean name="hidden">TRUE</boolean>
+      <int name="fontStyle">-2</int>
+      <string name="title">Το iTunes μπορεί να συγχρονίσει αυτόματα το iPhone σας με τις επαφές στο Βιβλίο διευθύνσεών σας, τα ημερολόγια στο iCal και τους σελιδοδείκτες στο Safari κάθε φορά που το συνδέετε με αυτό το Mac.</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>mTXT</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">247 104 458 39 </string>
+      <string name="bounds">104 247 143 705 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="5398">
+      <int name="controlID">138</int>
+      <int name="fontStyle">-2</int>
+      <string name="title">Για να συγχρονίσετε πολυμέσα στο iPhone σας, τροποποιήστε τις ρυθμίσεις για κάθε καρτέλα στην ακόλουθη οθόνη.</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>mTXT</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">247 149 458 29 </string>
+      <string name="bounds">149 247 178 705 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="5406">
+      <int name="controlID">151</int>
+      <boolean name="hidden">TRUE</boolean>
+      <int name="fontStyle">-2</int>
+      <string name="title">Μπορείτε να αλλάξετε τις ρυθμίσεις ασύρματου συγχρονισμού στο iPhone σας.</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>mTXT</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">229 112 458 26 </string>
+      <string name="bounds">112 229 138 687 </string>
+    </object>
+    <object class="IBCarbonEditText" id="5402">
+      <int name="controlID">121</int>
+      <boolean name="isUnicode">TRUE</boolean>
+      <boolean name="isSingleLine">TRUE</boolean>
+      <string name="title">iPhone</string>
+      <string name="viewFrame">285 43 239 16 </string>
+      <string name="bounds">43 285 59 524 </string>
+    </object>
+    <object class="IBCarbonCheckBox" id="5397">
+      <int name="controlID">114</int>
+      <boolean name="hidden">TRUE</boolean>
+      <int name="initialState">1</int>
+      <string name="title">Αυτόματος συγχρονισμός επαφών, ημερολογίων, σελιδοδεικτών, σημειώσεων και λογαριασμών email</string>
+      <string name="viewFrame">229 65 522 39 </string>
+      <string name="bounds">65 229 104 751 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="5409">
+      <int name="controlID">125</int>
+      <int name="fontStyle">-2</int>
+      <string name="title">Το iTunes μπορεί να συγχρονίζει αυτόματα το iPhone σας με τις επαφές, τα ημερολόγια, τους σελιδοδείκτες στο Safari και τους λογαριασμούς Mail σας κάθε φορά που το συνδέετε με αυτό το Mac.</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>mTXT</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">247 101 458 40 </string>
+      <string name="bounds">101 247 141 705 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="5403">
+      <int name="controlID">150</int>
+      <boolean name="hidden">TRUE</boolean>
+      <string name="viewFrame">229 76 490 34 </string>
+      <string name="bounds">76 229 110 719 </string>
+    </object>
+    <object class="IBCarbonCheckBox" id="5404">
+      <int name="controlID">118</int>
+      <string name="title">Αυτόματος συγχρονισμός εφαρμογών</string>
+      <string name="viewFrame">229 178 481 18 </string>
+      <string name="bounds">178 229 196 710 </string>
+    </object>
+    <object class="IBCarbonHIView" id="5396">
+      <int name="controlID">100</int>
+      <string name="classID">ITImageView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="3">
+          <string>hook</string>
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="3">
+          <string>frcl</string>
+          <string>NOAX</string>
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="3">
+          <string>1</string>
+          <string>2</string>
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="3">
+          <string>b8b8b8</string>
+          <string>true</string>
+          <string>9300</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 780 230 </string>
+      <array count="14" name="subviews">
+        <object class="IBCarbonPicture" id="5399">
+          <int name="controlID">110</int>
+          <int name="contentResID">0</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">78 48 128 128 </string>
+          <string name="bounds">48 78 176 206 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5407">
+          <int name="controlID">120</int>
+          <string name="title">Όνομα:</string>
+          <string name="viewFrame">228 42 52 20 </string>
+          <string name="bounds">42 228 62 280 </string>
+        </object>
+        <reference idRef="5402"/>
+        <object class="IBCarbonCheckBox" id="5401">
+          <int name="controlID">124</int>
+          <int name="initialState">1</int>
+          <string name="title">Αυτόματος συγχρονισμός επαφών, ημερολογίων, σελιδοδεικτών και λογαριασμών email</string>
+          <string name="viewFrame">229 67 481 38 </string>
+          <string name="bounds">67 229 105 710 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="5410">
+          <int name="controlID">116</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="initialState">1</int>
+          <string name="title">Αυτόματος συγχρονισμός επαφών, ημερολογίων και σελιδοδεικτών</string>
+          <string name="viewFrame">229 76 481 18 </string>
+          <string name="bounds">76 229 94 710 </string>
+        </object>
+        <reference idRef="5397"/>
+        <reference idRef="5403"/>
+        <object class="IBCarbonStaticText" id="5408">
+          <int name="controlID">115</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="fontStyle">-2</int>
+          <string name="title">Το iTunes μπορεί να συγχρονίσει αυτόματα το iPhone σας με τις επαφές στο Βιβλίο διευθύνσεων, τα ημερολόγια στο iCal, τους σελιδοδείκτες στο Safari, σημειώσεις και λογαριασμούς Mail κάθε φορά που το συνδέετε με αυτό το Mac.</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>mTXT</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">247 105 486 39 </string>
+          <string name="bounds">105 247 144 733 </string>
+        </object>
+        <reference idRef="5400"/>
+        <reference idRef="5409"/>
+        <reference idRef="5406"/>
+        <reference idRef="5398"/>
+        <object class="IBCarbonStaticText" id="5405">
+          <int name="controlID">152</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="fontStyle">-2</int>
+          <string name="title">Για να συγχρονίσετε πολυμέσα στο iPhone σας, τροποποιήστε τις ρυθμίσεις για κάθε καρτέλα στην ακόλουθη οθόνη.</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>mTXT</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">229 150 490 26 </string>
+          <string name="bounds">150 229 176 719 </string>
+        </object>
+        <reference idRef="5404"/>
+      </array>
+      <string name="bounds">0 0 230 780 </string>
+    </object>
+    <reference idRef="5408"/>
+    <reference idRef="5410"/>
+    <reference idRef="5405"/>
+    <reference idRef="5401"/>
+    <reference idRef="5399"/>
+    <reference idRef="5407"/>
+  </array>
+  <array count="15" name="allParents">
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="1"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="5396"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">5411</unsigned_int>
+</object>

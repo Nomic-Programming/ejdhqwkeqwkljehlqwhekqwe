@@ -1,0 +1,307 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="15" name="allObjects">
+    <object class="IBCarbonStaticText" id="5408">
+      <int name="controlID">115</int>
+      <boolean name="hidden">TRUE</boolean>
+      <int name="fontStyle">-2</int>
+      <string name="title">iTunes dokáže automaticky synchronizovať iPhone s vašimi kontaktami v Adresári, kalendármi v iCale, záložkami Safari a poznámkami a účtami Mailu vždy po pripojení k tomuto Macu.</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>mTXT</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">212 98 486 39 </string>
+      <string name="bounds">98 212 137 698 </string>
+    </object>
+    <object class="IBCarbonCheckBox" id="5401">
+      <int name="controlID">124</int>
+      <int name="initialState">1</int>
+      <string name="title">Automaticky synchronizovať kontakty, kalendáre, záložky a emailové účty</string>
+      <string name="viewFrame">194 78 497 18 </string>
+      <string name="bounds">78 194 96 691 </string>
+    </object>
+    <object class="IBCarbonHIView" id="5396">
+      <int name="controlID">100</int>
+      <string name="classID">ITImageView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="3">
+          <string>hook</string>
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="3">
+          <string>frcl</string>
+          <string>NOAX</string>
+          <string>PBUT</string>
+        </array>
+        <string>types</string>
+        <array count="3">
+          <string>1</string>
+          <string>2</string>
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="3">
+          <string>b8b8b8</string>
+          <string>true</string>
+          <string>9300</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 0 780 230 </string>
+      <array count="14" name="subviews">
+        <object class="IBCarbonPicture" id="5399">
+          <int name="controlID">110</int>
+          <int name="contentResID">0</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">43 48 128 128 </string>
+          <string name="bounds">48 43 176 171 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5407">
+          <int name="controlID">120</int>
+          <string name="title">Meno:</string>
+          <string name="viewFrame">193 42 46 20 </string>
+          <string name="bounds">42 193 62 239 </string>
+        </object>
+        <object class="IBCarbonEditText" id="5402">
+          <int name="controlID">121</int>
+          <boolean name="isUnicode">TRUE</boolean>
+          <boolean name="isSingleLine">TRUE</boolean>
+          <string name="title">iPhone</string>
+          <string name="viewFrame">245 43 239 16 </string>
+          <string name="bounds">43 245 59 484 </string>
+        </object>
+        <reference idRef="5401"/>
+        <object class="IBCarbonCheckBox" id="5410">
+          <int name="controlID">116</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="initialState">1</int>
+          <string name="title">Automaticky synchronizovať kontakty, kalendáre a záložky</string>
+          <string name="viewFrame">194 78 481 18 </string>
+          <string name="bounds">78 194 96 675 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="5397">
+          <int name="controlID">114</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="initialState">1</int>
+          <string name="title">Automaticky synchronizovať kontakty, kalendáre, záložky, poznámky a emailové účty</string>
+          <string name="viewFrame">194 74 579 28 </string>
+          <string name="bounds">74 194 102 773 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5403">
+          <int name="controlID">150</int>
+          <boolean name="hidden">TRUE</boolean>
+          <string name="viewFrame">194 78 490 34 </string>
+          <string name="bounds">78 194 112 684 </string>
+        </object>
+        <reference idRef="5408"/>
+        <object class="IBCarbonStaticText" id="5400">
+          <int name="controlID">117</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="fontStyle">-2</int>
+          <string name="title">iTunes dokáže automaticky synchronizovať iPhone s vašimi kontaktami v Adresári kalendármi v iCale a záložkami Safari vždy po pripojení k tomuto Macu.</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>mTXT</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">212 98 458 38 </string>
+          <string name="bounds">98 212 136 670 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5409">
+          <int name="controlID">125</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">iTunes dokáže automaticky synchronizovať iPhone s vašimi kontaktami, kalendármi, záložkami Safari a účtami Mailu vždy po pripojení k tomuto Macu.</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>mTXT</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">212 98 458 38 </string>
+          <string name="bounds">98 212 136 670 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5406">
+          <int name="controlID">151</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="fontStyle">-2</int>
+          <string name="title">Nastavenia bezdrôtovej synchronizácie je možné zmeniť na iPhone.</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>mTXT</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">194 114 458 18 </string>
+          <string name="bounds">114 194 132 652 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5398">
+          <int name="controlID">138</int>
+          <int name="fontStyle">-2</int>
+          <string name="title">Pre synchronizáciu médií s iPhonom zmeňte nastavenia v každej záložke na nasledujúcej obrazovke.</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>mTXT</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">212 141 458 29 </string>
+          <string name="bounds">141 212 170 670 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="5405">
+          <int name="controlID">152</int>
+          <boolean name="hidden">TRUE</boolean>
+          <int name="fontStyle">-2</int>
+          <string name="title">Pre synchronizáciu médií s iPhonom zmeňte nastavenia v každej záložke na nasledujúcej obrazovke.</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>mTXT</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">194 150 490 26 </string>
+          <string name="bounds">150 194 176 684 </string>
+        </object>
+        <object class="IBCarbonCheckBox" id="5404">
+          <int name="controlID">118</int>
+          <string name="title">Automaticky synchronizovať aplikácie</string>
+          <string name="viewFrame">194 178 481 18 </string>
+          <string name="bounds">178 194 196 675 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 230 780 </string>
+    </object>
+    <reference idRef="5400"/>
+    <reference idRef="5397"/>
+    <reference idRef="5409"/>
+    <reference idRef="5402"/>
+    <reference idRef="5405"/>
+    <reference idRef="5403"/>
+    <reference idRef="5399"/>
+    <reference idRef="5406"/>
+    <reference idRef="5398"/>
+    <reference idRef="5407"/>
+    <reference idRef="5410"/>
+    <reference idRef="5404"/>
+  </array>
+  <array count="15" name="allParents">
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="1"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+    <reference idRef="5396"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="5396"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">5411</unsigned_int>
+</object>

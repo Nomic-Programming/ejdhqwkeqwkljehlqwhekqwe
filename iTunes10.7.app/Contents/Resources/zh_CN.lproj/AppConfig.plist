@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>128</key>
+	<dict>
+		<key>browser-window-button-right-margin</key>
+		<integer>24</integer>
+		<key>browser-window-minimum-height</key>
+		<integer>294</integer>
+		<key>browser-window-minimum-list-width</key>
+		<integer>150</integer>
+		<key>browser-window-minimum-width</key>
+		<integer>700</integer>
+		<key>browser-window-search-button-gap</key>
+		<integer>15</integer>
+		<key>default-source-width</key>
+		<integer>185</integer>
+		<key>default-unicode-export</key>
+		<false/>
+		<key>disable-version-check</key>
+		<false/>
+		<key>enable-help-tags</key>
+		<true/>
+		<key>line-gap-for-large-text</key>
+		<integer>5</integer>
+		<key>line-gap-for-small-text</key>
+		<integer>5</integer>
+		<key>mac-localized-resources-version</key>
+		<integer>2</integer>
+		<key>use-international-sorting</key>
+		<false/>
+		<key>vcenter-tweak-for-large-text</key>
+		<integer>0</integer>
+		<key>vcenter-tweak-for-small-text</key>
+		<integer>0</integer>
+	</dict>
+</dict>
+</plist>

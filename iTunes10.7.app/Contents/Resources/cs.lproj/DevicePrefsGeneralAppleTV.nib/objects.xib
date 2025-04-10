@@ -1,0 +1,567 @@
+<?xml version="1.0" standalone="yes"?>
+<object class="NSIBObjectData">
+  <object name="rootObject" class="NSCustomObject" id="1">
+  </object>
+  <array count="32" name="allObjects">
+    <object class="IBCarbonStaticText" id="1203020">
+      <int name="controlID">504</int>
+      <int name="justification">-2</int>
+      <string name="viewFrame">440 56 321 16 </string>
+      <string name="bounds">108 480 124 801 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="1203018">
+      <int name="controlID">511</int>
+      <int name="fontStyle">4</int>
+      <string name="title">Kapacita:</string>
+      <int name="justification">-1</int>
+      <string name="viewFrame">242 56 190 16 </string>
+      <string name="bounds">108 282 124 472 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="1203032">
+      <int name="controlID">7055</int>
+      <int name="fontStyle">-2</int>
+      <string name="title">iTunes automaticky vyberou audio a video pro synchronizaci a upřednostní novější položky. Nesynchronizované položky budou v Apple TV k dispozici, pokud budou spuštěny iTunes.</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>mTXT</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">161 40 568 31 </string>
+      <string name="bounds">322 201 353 769 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="1203017">
+      <int name="controlID">505</int>
+      <int name="justification">-2</int>
+      <string name="viewFrame">440 77 321 16 </string>
+      <string name="bounds">129 480 145 801 </string>
+    </object>
+    <object class="IBCarbonUserPane" id="1203009">
+      <int name="controlID">2503</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">20 0 830 184 </string>
+      <array count="2" name="subviews">
+        <object class="IBCarbonStaticText" id="1203011">
+          <int name="controlID">7052</int>
+          <string name="title">Média</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>TXTS</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>3001</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">20 22 153 23 </string>
+          <string name="bounds">535 40 558 193 </string>
+        </object>
+        <object class="IBCarbonHIView" id="1203010">
+          <string name="classID">ITImageView</string>
+          <string name="viewFrame">20 52 790 113 </string>
+          <array count="2" name="subviews">
+            <object class="IBCarbonStaticText" id="1203013">
+              <int name="controlID">7050</int>
+              <string name="title">iTunes synchronizují obsah knihovny do Apple TV v následujícím pořadí: filmy, TV pořady, hudba, podcasty a fotografie. Některá média nemusí být do Apple TV pro nedostatek volného místa zkopírována. </string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>mTXT</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>2</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>true</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">185 20 420 73 </string>
+              <string name="bounds">585 225 658 645 </string>
+            </object>
+            <object class="IBCarbonStaticText" id="1203012">
+              <int name="controlID">7051</int>
+              <boolean name="hidden">TRUE</boolean>
+              <string name="title">iTunes synchronizují obsah knihovny do Apple TV v následujícím pořadí: fotografie, filmy, TV pořady, hudba a podcasty. Některá média nemusí být do Apple TV pro nedostatek volného místa zkopírována.</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>mTXT</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>2</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>true</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">185 20 420 73 </string>
+              <string name="bounds">585 225 658 645 </string>
+            </object>
+          </array>
+          <string name="bounds">565 40 678 830 </string>
+        </object>
+      </array>
+      <string name="bounds">513 20 697 850 </string>
+    </object>
+    <object class="IBCarbonStaticText" id="1203026">
+      <int name="controlID">506</int>
+      <int name="justification">-2</int>
+      <string name="viewFrame">440 98 321 16 </string>
+      <string name="bounds">150 480 166 801 </string>
+    </object>
+    <object class="IBCarbonRadioButton" id="1203033">
+      <int name="controlID">7054</int>
+      <boolean name="enabled">FALSE</boolean>
+      <string name="title">Automatická synchronizace</string>
+      <string name="viewFrame">145 20 275 19 </string>
+      <string name="bounds">302 185 321 460 </string>
+    </object>
+    <object class="IBCarbonHIView" id="1203006">
+      <int name="controlID">2504</int>
+      <string name="classID">ITImageView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>cenV</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>6</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>2505</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">0 230 870 283 </string>
+      <array count="1" name="subviews">
+        <object class="IBCarbonUserPane" id="1203028">
+          <int name="controlID">2505</int>
+          <int name="featureBits">2</int>
+          <string name="viewFrame">20 0 830 278 </string>
+          <array count="2" name="subviews">
+            <object class="IBCarbonStaticText" id="1203030">
+              <int name="controlID">7053</int>
+              <string name="title">Synchronizovat</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="1">
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="1">
+                  <string>TXTS</string>
+                </array>
+                <string>types</string>
+                <array count="1">
+                  <string>6</string>
+                </array>
+                <string>values</string>
+                <array count="1">
+                  <string>3001</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">20 22 196 23 </string>
+              <string name="bounds">252 40 275 236 </string>
+            </object>
+            <object class="IBCarbonHIView" id="1203029">
+              <string name="classID">ITImageView</string>
+              <dictionary count="4" name="auxiliaryDictionary">
+                <string>creators</string>
+                <array count="2">
+                  <string>hook</string>
+                  <string>hook</string>
+                </array>
+                <string>tags</string>
+                <array count="2">
+                  <string>bcol</string>
+                  <string>fsqr</string>
+                </array>
+                <string>types</string>
+                <array count="2">
+                  <string>1</string>
+                  <string>2</string>
+                </array>
+                <string>values</string>
+                <array count="2">
+                  <string>f7f7f7</string>
+                  <string>true</string>
+                </array>
+              </dictionary>
+              <string name="viewFrame">20 52 790 216 </string>
+              <array count="6" name="subviews">
+                <reference idRef="1203033"/>
+                <reference idRef="1203032"/>
+                <object class="IBCarbonRadioButton" id="1203036">
+                  <int name="controlID">7056</int>
+                  <int name="initialState">1</int>
+                  <string name="title">Vlastní synchronizace</string>
+                  <string name="viewFrame">145 80 275 19 </string>
+                  <string name="bounds">362 185 381 460 </string>
+                </object>
+                <object class="IBCarbonStaticText" id="1203035">
+                  <int name="controlID">7050</int>
+                  <int name="fontStyle">-2</int>
+                  <string name="title">Vyberte zvukové a videosoubory pro synchronizaci. Položky budou přidávány do vyčerpání volného místa v tomto pořadí: filmy, TV pořady, hudba, podcasty. Nesynchronizované položky budou v Apple TV k dispozici, pokud budou spuštěny iTunes.</string>
+                  <dictionary count="4" name="auxiliaryDictionary">
+                    <string>creators</string>
+                    <array count="1">
+                      <string>hook</string>
+                    </array>
+                    <string>tags</string>
+                    <array count="1">
+                      <string>mTXT</string>
+                    </array>
+                    <string>types</string>
+                    <array count="1">
+                      <string>2</string>
+                    </array>
+                    <string>values</string>
+                    <array count="1">
+                      <string>true</string>
+                    </array>
+                  </dictionary>
+                  <string name="viewFrame">162 100 567 40 </string>
+                  <string name="bounds">382 202 422 769 </string>
+                </object>
+                <object class="IBCarbonCheckBox" id="1203031">
+                  <int name="controlID">7058</int>
+                  <boolean name="enabled">FALSE</boolean>
+                  <int name="fontStyle">105</int>
+                  <string name="title">Zobrazit v Apple TV pouze synchronizované položky</string>
+                  <string name="viewFrame">163 145 488 18 </string>
+                  <string name="bounds">427 203 445 691 </string>
+                </object>
+                <object class="IBCarbonStaticText" id="1203034">
+                  <int name="controlID">7059</int>
+                  <string name="title">Fotografie pro synchronizaci do Apple TV můžete vybrat kliknutím na kartu Fotografie.</string>
+                  <string name="viewFrame">146 178 570 18 </string>
+                  <string name="bounds">460 186 478 756 </string>
+                </object>
+              </array>
+              <string name="bounds">282 40 498 830 </string>
+            </object>
+          </array>
+          <string name="bounds">230 20 508 850 </string>
+        </object>
+      </array>
+      <string name="bounds">230 0 513 870 </string>
+    </object>
+    <reference idRef="1203035"/>
+    <reference idRef="1203010"/>
+    <object class="IBCarbonPicture" id="1203016">
+      <int name="controlID">520</int>
+      <int name="contentResID">3030</int>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="1">
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="1">
+          <string>NOAX</string>
+        </array>
+        <string>types</string>
+        <array count="1">
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="1">
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">24 26 40 19 </string>
+      <string name="bounds">26 44 45 84 </string>
+    </object>
+    <reference idRef="1203029"/>
+    <reference idRef="1203030"/>
+    <object class="IBCarbonHIView" id="1203015">
+      <int name="controlID">2031</int>
+      <string name="classID">ITImageView</string>
+      <dictionary count="4" name="auxiliaryDictionary">
+        <string>creators</string>
+        <array count="2">
+          <string>hook</string>
+          <string>hook</string>
+        </array>
+        <string>tags</string>
+        <array count="2">
+          <string>bcol</string>
+          <string>fsqr</string>
+        </array>
+        <string>types</string>
+        <array count="2">
+          <string>1</string>
+          <string>2</string>
+        </array>
+        <string>values</string>
+        <array count="2">
+          <string>f7f7f7</string>
+          <string>true</string>
+        </array>
+      </dictionary>
+      <string name="viewFrame">20 52 790 176 </string>
+      <array count="11" name="subviews">
+        <object class="IBCarbonPicture" id="1203025">
+          <int name="controlID">508</int>
+          <int name="contentResID">0</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>NOAX</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>true</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">93 24 128 128 </string>
+          <string name="bounds">76 133 204 261 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="1203022">
+          <int name="controlID">510</int>
+          <int name="fontStyle">4</int>
+          <string name="title">Název:</string>
+          <int name="justification">-1</int>
+          <string name="viewFrame">242 35 190 16 </string>
+          <string name="bounds">87 282 103 472 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="1203024">
+          <int name="controlID">503</int>
+          <int name="justification">-2</int>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>MTLN</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>2</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>false</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">440 35 321 16 </string>
+          <string name="bounds">87 480 103 801 </string>
+        </object>
+        <reference idRef="1203018"/>
+        <reference idRef="1203020"/>
+        <object class="IBCarbonStaticText" id="1203019">
+          <int name="controlID">512</int>
+          <int name="fontStyle">4</int>
+          <string name="title">Verze softwaru:</string>
+          <int name="justification">-1</int>
+          <string name="viewFrame">242 77 190 16 </string>
+          <string name="bounds">129 282 145 472 </string>
+        </object>
+        <reference idRef="1203017"/>
+        <object class="IBCarbonStaticText" id="1203027">
+          <int name="controlID">513</int>
+          <int name="fontStyle">4</int>
+          <string name="title">Sériové číslo:</string>
+          <int name="justification">-1</int>
+          <string name="viewFrame">222 98 210 16 </string>
+          <string name="bounds">150 262 166 472 </string>
+        </object>
+        <reference idRef="1203026"/>
+        <object class="IBCarbonStaticText" id="1203023">
+          <int name="controlID">514</int>
+          <int name="fontStyle">4</int>
+          <string name="title">Formát:</string>
+          <int name="justification">-1</int>
+          <string name="viewFrame">242 119 190 16 </string>
+          <string name="bounds">171 282 187 472 </string>
+        </object>
+        <object class="IBCarbonStaticText" id="1203021">
+          <int name="controlID">507</int>
+          <int name="justification">-2</int>
+          <string name="viewFrame">440 119 321 16 </string>
+          <string name="bounds">171 480 187 801 </string>
+        </object>
+      </array>
+      <string name="bounds">52 40 228 830 </string>
+    </object>
+    <reference idRef="1203023"/>
+    <reference idRef="1203025"/>
+    <reference idRef="1203012"/>
+    <object class="IBCarbonUserPane" id="1203005">
+      <int name="controlID">100</int>
+      <int name="featureBits">2</int>
+      <string name="viewFrame">0 0 871 696 </string>
+      <array count="3" name="subviews">
+        <object class="IBCarbonHIView" id="1203007">
+          <int name="controlID">2500</int>
+          <string name="classID">ITImageView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>cenV</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>2501</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">0 0 870 230 </string>
+          <array count="1" name="subviews">
+            <object class="IBCarbonUserPane" id="1203014">
+              <int name="controlID">2501</int>
+              <int name="featureBits">2</int>
+              <string name="viewFrame">20 0 830 230 </string>
+              <array count="2" name="subviews">
+                <reference idRef="1203016"/>
+                <reference idRef="1203015"/>
+              </array>
+              <string name="bounds">0 20 230 850 </string>
+            </object>
+          </array>
+          <string name="bounds">0 0 230 870 </string>
+        </object>
+        <reference idRef="1203006"/>
+        <object class="IBCarbonHIView" id="1203008">
+          <int name="controlID">2502</int>
+          <string name="classID">ITImageView</string>
+          <dictionary count="4" name="auxiliaryDictionary">
+            <string>creators</string>
+            <array count="1">
+              <string>hook</string>
+            </array>
+            <string>tags</string>
+            <array count="1">
+              <string>cenV</string>
+            </array>
+            <string>types</string>
+            <array count="1">
+              <string>6</string>
+            </array>
+            <string>values</string>
+            <array count="1">
+              <string>2503</string>
+            </array>
+          </dictionary>
+          <string name="viewFrame">0 513 870 180 </string>
+          <array count="1" name="subviews">
+            <reference idRef="1203009"/>
+          </array>
+          <string name="bounds">513 0 693 870 </string>
+        </object>
+      </array>
+      <string name="bounds">0 0 696 871 </string>
+    </object>
+    <reference idRef="1203011"/>
+    <reference idRef="1203024"/>
+    <reference idRef="1203007"/>
+    <reference idRef="1203008"/>
+    <reference idRef="1203027"/>
+    <reference idRef="1203036"/>
+    <reference idRef="1203034"/>
+    <reference idRef="1203021"/>
+    <reference idRef="1203028"/>
+    <reference idRef="1203019"/>
+    <reference idRef="1203022"/>
+    <reference idRef="1203013"/>
+    <reference idRef="1203014"/>
+    <reference idRef="1203031"/>
+  </array>
+  <array count="32" name="allParents">
+    <reference idRef="1203015"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203029"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203008"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203029"/>
+    <reference idRef="1203005"/>
+    <reference idRef="1203029"/>
+    <reference idRef="1203009"/>
+    <reference idRef="1203014"/>
+    <reference idRef="1203028"/>
+    <reference idRef="1203028"/>
+    <reference idRef="1203014"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203010"/>
+    <reference idRef="1"/>
+    <reference idRef="1203009"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203005"/>
+    <reference idRef="1203005"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203029"/>
+    <reference idRef="1203029"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203006"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203015"/>
+    <reference idRef="1203010"/>
+    <reference idRef="1203007"/>
+    <reference idRef="1203029"/>
+  </array>
+  <dictionary count="2" name="nameTable">
+    <string>AnonymousObject-1</string>
+    <reference idRef="1203005"/>
+    <string>File&apos;s Owner</string>
+    <reference idRef="1"/>
+  </dictionary>
+  <string name="targetFramework">IBCarbonFramework</string>
+  <unsigned_int name="nextObjectID">1203037</unsigned_int>
+</object>
